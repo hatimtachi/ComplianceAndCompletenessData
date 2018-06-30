@@ -1,0 +1,48 @@
+personne/1 aNom Dupond
+personne/1 estAgeDe 25
+personne/1 habiteA Paris
+personne/1 aPermisConduire pc1
+personne/1 aPere personne/5
+personne/1 aMere personne/8
+
+personne/2 aNom Durand
+personne/2 estAgeDe -15
+personne/2 habiteA Lyon
+personne/2 aMere personne/8
+
+personne/3 aNom Benali
+personne/3 estAgeDe 12
+personne/3 habiteA Brest
+personne/3 aPermisConduire pc3
+personne/3 aMere personne/4
+
+personne/4 aNom Boulanger
+personne/4 habiteA Brest
+personne/4 aPermisConduire pc4
+personne/4 aMere personne/5
+
+personne/5 aNom Ange
+personne/5 estAgeDe 80
+personne/5 habiteA Paris
+personne/5 aPermisConduire pc5
+
+personne/6 aNom Bienvenu
+personne/6 estAgeDe 10
+personne/6 habiteA Lyon
+personne/6 aPermisConduire pc6
+personne/6 aPere personne/5
+
+personne/7 aNom Bouchez
+personne/7 habiteA Paris
+personne/7 estAgeDe -1
+
+personne/8 aNom Boufares
+personne/8 estAgeDe 10
+personne/8 habiteA Lyon
+personne/8 aPermisConduire pc8
+
+personne/9 aNom Sanchez
+personne/9 aMere personne/4
+
+personne/10 aNom Poullard
+personne/10 estAgeDe -45
