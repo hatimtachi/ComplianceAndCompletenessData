@@ -1,9 +1,13 @@
 package projet
 
+"""
+Created by hatim tachi.
+Copyright © 2018 hatim tachi. All rights reserved.
+"""
+
 import org.apache.spark.rdd.RDD
 import org.apache.spark.sql.DataFrame
 import projet.Main.conformite
-
 import scala.collection.mutable.ListBuffer
 
 class Tools {

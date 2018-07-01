@@ -1,5 +1,10 @@
 package projet
 
+"""
+Created by hatim tachi.
+Copyright © 2018 hatim tachi. All rights reserved.
+"""
+
 import org.apache.spark.sql.DataFrame
 
 class Completude {
